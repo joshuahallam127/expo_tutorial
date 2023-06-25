@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "expo_tutorial",
+  "short_name": "expo_tutorial",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
